@@ -1,0 +1,12 @@
+{
+  "name": "agencearcange/wp-twig-dump",
+  "description": "Allow dump() in twig templates",
+  "keywords": ["wordpress", "plugin", "timber", "twig"],
+  "homepage": "https://github.com/agencearcange/arcange-wpdump",
+  "type": "wordpress-muplugin",
+  "license": "GPLv2",
+  "require": {
+    "hellonico/twig-dump-extension": "^1.0",
+    "wpackagist-plugin/timber-library": "^1.0"
+  }
+}
