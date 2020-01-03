@@ -6,7 +6,6 @@
   "type": "wordpress-muplugin",
   "license": "GPLv2",
   "require": {
-    "hellonico/twig-dump-extension": "^1.0",
-    "wpackagist-plugin/timber-library": "^1.0"
+    "hellonico/twig-dump-extension": "^1.0"
   }
 }
